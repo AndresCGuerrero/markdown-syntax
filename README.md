@@ -100,11 +100,11 @@ There are two main ways to create separating lines, with three hyphen (\-) or wi
 
 `***`
 
-This is the equivalent to the `<hr/>` etiquete in HTML.
+This is the equivalent to the `<hr/>` etiquete in _HTML_.
 
 ## Lists
 
-We can use numbers `1., 2., 3., etc` for ordered lists or asterisks/hyphen `-` for unordered lists, in both cases there has to be a blank space between the elements.
+We can use numbers `1., 2., 3., etc` for ordered lists or asterisks/hyphen `-`/`*` for unordered lists, in both cases there has to be a blank space between the elements.
 
 ### Ordered list
 
@@ -120,10 +120,10 @@ Like this:
 ```markdown
 1. Item 1
 2. Item 2
-3. Sub Item 1
-4. Sub Item 2
-5. Sub-sub Item 1
-6. Item 3
+   1. Sub Item 1
+   2. Sub Item 2
+      1. Sub-sub Item 1
+3. Item 3
 ```
 
 ---
@@ -273,7 +273,7 @@ However, inside of markdown we can use _HTML_ code directly:
 
 <form>
   <label for="Q">Search:</label>
-  <input type="search" name="Q" id="Q"/>
+  <input type="search" name="Q" id="Q" placeholder="Search anything..."/>
 </form>
 
 ```
