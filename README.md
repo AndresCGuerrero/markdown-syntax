@@ -295,3 +295,4 @@ To make a comment in _MARKDOWN_ is the same as in _HTML_:
 
 - [JonMirCha](https://www.youtube.com/watch?v=FlsoBiteuPM&list=PLvq-jIkSeTUZ7FtDshwPGlZoLSWyR5ryt&index=5&ab_channel=jonmircha)
 - [Markdown Guide](https://www.markdownguide.org/)
+- https://andrescguerrero.github.io/markdown-syntax/
